@@ -101,7 +101,7 @@ Nelle pagine di dettaglio prodotto:
 
 Nel footer delle pagine elenco prodotto:
 
-![](../.gitbook/assets/54266729.jpg)
+![](../.gitbook/assets/54266733.jpg)
 
 **Etichetta prezzo per unità**
 
@@ -126,7 +126,7 @@ Nella pagina di dettaglio del prodotto:
 
 Nel footer dell’elenco prodotto:
 
-![](../.gitbook/assets/54266733.jpg)
+![](../.gitbook/assets/54266733%20%281%29.jpg)
 
 **Termini per il recesso entro CdS**          
 

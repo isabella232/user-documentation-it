@@ -7,7 +7,7 @@ Questo capitolo contiene le seguenti sezioni:
 * [Impostazioni Ordine](impostazioni-ordine/)
 * [Impostazioni Prodotto](impostazioni-prodotto.md)
 * [Impostazioni Clienti](impostazioni-clienti/)
-* [Contatto](contatto/)
+* [Contatto](contatto.md)
 * [Traffico](traffico/)
 * [Ricerca](ricerca/)
 

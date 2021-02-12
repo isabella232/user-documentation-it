@@ -58,7 +58,7 @@ Per creare manualmente un account cliente, seleziona "Aggiungi nuovo cliente". V
 
 Se i tuoi clienti sono per lo più aziende, devi abilitare la modalità B2B per ottenere opzioni aggiuntive: vai alla pagina "Impostazioni clienti" del menu "Parametri del negozio" e scegli "Sì" per l'opzione "Abilita modalità B2B".
 
-![](../../../.gitbook/assets/54267647.png)
+![](../../../.gitbook/assets/54267641%20%281%29.png)
 
 La modalità B2B aggiunge alcuni campi specifici aziendali:
 

@@ -20,7 +20,7 @@ La pagina "Tag" nel menu "Ricerca" consente di creare nuovi tag e gestire i tag 
 
 Per crearne un nuovo, clicca su "Aggiungi nuovo tag" e visualizzerai la pagina di creazione.
 
-![](../../../../.gitbook/assets/54267510.png)
+![](../../../../.gitbook/assets/54267510%20%281%29.png)
 
 Questa interfaccia consente di aggiungere tag a uno o più prodotti.
 

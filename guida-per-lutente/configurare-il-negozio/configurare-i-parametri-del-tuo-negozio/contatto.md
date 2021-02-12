@@ -1,4 +1,37 @@
-# Negozio e Dettagli di Contatto
+# Contatto
+
+Il tuo negozio offre ai tuoi clienti diversi modi per farti contattare, dal classico modulo di contatto alle informazioni sul tuo negozio fisico \(se presente\). In queste pagine puoi configurare qualsiasi dettaglio che riguarda i tuoi contatti.
+
+## Contatti
+
+La pagina "Contattaci" del tuo negozio contiene un modulo di contatto per essere raggiunto virtualmente dai tuoi clienti. A seconda delle loro esigenze, i messaggi possono essere destinati a diversi servizi e giungere alla persona di competenza per essere correttamente gestiti.
+
+È possibile creare diversi account di contatto per smistare meglio le richieste dei clienti. Ad esempio: servizio clienti, supporto tecnico, reparto vendite, ecc.  
+  
+Nella pagina "Contatti" è presente l'elenco dei contatti esistenti. Per poter indirizzare il messaggio al destinatario previsto è necessario configurare i contatti del tuo negozio.
+
+![](../../../.gitbook/assets/54266624.jpg)
+
+### Creare un nuovo contatto
+
+Cliccare sul pulsante "Aggiungi nuovo contatto" per accedere alla creazione del modulo di contatto:
+
+* **Titolo**. Il nome del contatto: il nome della persona o il nome del servizio stesso. Puoi anche scegliere di utilizzare una frase, come ad esempio "Ho un problema con il mio ordine", "Voglio restituire un prodotto" o "Voglio diventare partner". Infatti, queste informazioni vengono visualizzate nel menu a discesa "Oggetto" del modulo di contatto e questo è ciò che il tuo cliente vedrà quando ti contatterà.
+* **Indirizzo e-mail**. L'indirizzo può essere lo stesso di un altro contatto. Infatti, tutti i contatti possono condividere lo stesso indirizzo se non hai un team numeroso o sei il solo a gestire il tuo negozio - i clienti non ne verranno a conoscenza, ma una lista di diversi contatti li aiuta a fidarsi di più, in quanto significa che ci sono molte persone che si occupano di gestire gli acquisì e le segnalazioni del tuo negozio.
+* **Salvare i messaggi?**. Puoi decidere se l’e-mail deve essere salvata nello strumento "Servizio clienti" o semplicemente inviata all'indirizzo di posta elettronica. Se disattivato, PrestaShop non ti aiuterà a gestire il servizio per questo contatto. Questo potrebbe essere utile per "Partner e-mail” nel caso non desideri che i dipendenti del servizio clienti abbiano accesso a questi messaggi.
+* **Descrizione**. Sii breve, non più di una riga, in quanto questa descrizione verrà mostrata al cliente nel modulo di contatto \(a seconda del tuo tema\).  
+
+![](../../../.gitbook/assets/54266625.jpg)
+
+### Come i clienti ti possono contattare
+
+Per contattare il team appropriato dal front office del tuo negozio, i clienti possono cliccare sia su “Contattaci” nella parte in alto della pagina, sia nel fondo della pagina. Dopo aver cliccato apparirà il modulo contatti. 
+
+![](../../../.gitbook/assets/54266626.jpg)
+
+Al cliente verrà quindi richiesto di scegliere il servizio da contattare, immettere l'indirizzo e-mail e completare il messaggio. Un menu a discesa consente di scegliere l'ordine oggetto del contatto e anche di quale prodotto si sta parlando.
+
+Il modulo "Contatti" consente inoltre di visualizzare i dettagli di contatto nel footer e nella pagina "Contattaci" del tuo negozio. Puoi gestire i tuoi dati di contatto nella pagina "Negozi".
 
 ## Preferenze di Contatto Negozio <a id="NegozioeDettaglidiContatto-PreferenzediContattoNegozio"></a>
 
@@ -27,21 +60,21 @@ Se un giorno desideri nuovamente la pagina "Negozi" devi crearla da capo nella p
 
 È possibile scegliere come mostrare questi negozi nel front office. Il cliente può accedervi tramite il link "Negozi" \(a seconda del tema\)
 
-![](../../../../.gitbook/assets/54267607.png)
+![](../../../.gitbook/assets/54267607.png)
 
 Nella tua interfaccia, tutti i tuoi negozi sono elencati in una lista pratica, con le informazioni di ogni negozio e l’indicazione sull’apertura o meno - per esempio puoi raccogliere in anticipo le informazioni di un nuovo negozio per avere la pagina pronta per il lancio.
 
-![](../../../../.gitbook/assets/54267608.png)
+![](../../../.gitbook/assets/54267608.png)
 
 #### Aggiungere un nuovo negozio fisico <a id="NegozioeDettaglidiContatto-Aggiungereunnuovonegoziofisico"></a>
 
 Come di consueto clicca su "Aggiungi nuovo negozio" per accedere al form di creazione del negozio.  
 
-![](../../../../.gitbook/assets/54267609.png)
+![](../../../.gitbook/assets/54267609.png)
 
 Compila il maggior numero possibile di campi, in quanto verranno mostrati ai tuoi clienti.
 
-![](../../../../.gitbook/assets/54267612.png)
+![](../../../.gitbook/assets/54267612.png)
 
 Un campo importante è "Latitudine/Longitudine", in quanto indica la posizione del tuo negozio \(a seconda del tema\). È possibile utilizzare lo strumento online di Steve Morse per ottenere le coordinate lat/long di un determinato indirizzo: [http://stevemorse.org/jcal/latlon.php](http://stevemorse.org/jcal/latlon.php).
 
@@ -53,7 +86,7 @@ Infine, i giorni e le ore di apertura sono parte essenziale di qualsiasi negozio
 
 Questa sezione consente di fornire i principali dettagli della tua azienda, o di uno specifico negozio. Dovresti compilare tutti i campi con informazioni sul tuo quartier generale, in quanto si tratta dell'indirizzo che i clienti utilizzeranno per contattarti o addirittura visitare la tua attività.
 
-![](../../../../.gitbook/assets/54267613.png)
+![](../../../.gitbook/assets/54267613.png)
 
 Questi campi devono essere accuratamente riempiti:
 

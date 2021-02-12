@@ -31,7 +31,7 @@ Una volta stabilite queste impostazioni, puoi salvare il gruppo così com’è, 
   * È possibile aggiungere più sconti di categoria per un gruppo di clienti a seconda delle necessità – è possibile assegnare a tutto il gruppo un intero set di sconti diversi se opportuno.
 * **Moduli autorizzati**. Questa sezione consente di bloccare i membri del gruppo ad alcuni dei moduli del tuo negozio. Ad esempio, puoi decidere che alcuni clienti non possano vedere i prodotti più venduti o gli speciali.
 
-![](../../../../.gitbook/assets/54267129.png)
+![](../../../../.gitbook/assets/54267126.png)
 
 Puoi aggiungere un cliente a un gruppo di tua scelta modificando i dettagli del cliente: dall'elenco dei clienti \(nella pagina "Clienti" nel menu "Clienti"\), clicca sul pulsante Modifica nella riga del cliente. Quindi, nella scheda "Accesso al gruppo", seleziona i gruppi a cui desideri che il tuo cliente appartenga. Se assegni il cliente a più di un gruppo, ricorda di impostare il gruppo principale come "Gruppo clienti di default".
 

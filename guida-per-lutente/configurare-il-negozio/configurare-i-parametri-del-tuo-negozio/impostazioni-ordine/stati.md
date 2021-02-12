@@ -25,7 +25,7 @@ L'elenco degli stati dei riesi presenta meno informazioni poiché si tratta di t
 
 Puoi creare un nuovo stato con il pulsante "Aggiungi stato nuovo ordine" in alto. Si aprirà il form di creazione.
 
-![](../../../../.gitbook/assets/54267457.png)
+![](../../../../.gitbook/assets/54267464%20%281%29.png)
 
 Compila il form:
 

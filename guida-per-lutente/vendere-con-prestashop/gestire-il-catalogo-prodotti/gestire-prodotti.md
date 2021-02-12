@@ -476,7 +476,7 @@ Il vantaggio di questa funzione è che offre ai tuoi clienti un servizio persona
 
 Vediamo come configurare questa funzione. Clicca su "Aggiungi un campo di personalizzazione" per indicare quale tipo di contesto \(file e/o testo\) può essere personalizzato. Puoi aggiungere quanti campi ti servono e metterli a disposizione dei tuoi clienti.
 
-![](../../../.gitbook/assets/54267237.png)
+![](../../../.gitbook/assets/54267237%20%281%29.png)
 
 Per ogni campo di personalizzazione hai bisogno di specificare due informazioni: 
 

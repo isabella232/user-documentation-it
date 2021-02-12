@@ -6,7 +6,7 @@ Ogni volta che viene confermato un ordine nel tuo negozio, viene inviata una fat
 
 È possibile scaricare le fatture per un singolo ordine dalla pagina dell'ordine. La pagina "Fatture" consente di scaricare, contemporaneamente, una selezione di fatture dagli ordini passati in formato PDF, \(in un unico file PDF\).
 
-![](../../../.gitbook/assets/54267478.png)
+![](../../../.gitbook/assets/54267478%20%281%29.png)
 
 È possibile ottenere un file PDF contenente più fatture in base a due criteri principali:
 
