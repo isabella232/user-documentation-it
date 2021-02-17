@@ -27,7 +27,7 @@ Capitoli di questa guida:
   * [Gestire i Pagamenti](migliorare-il-tuo-negozio/gestire-i-pagamenti/)
   * [Diventare Internazionali](migliorare-il-tuo-negozio/diventare-internazionali/)
 * [Configurare il negozio](configurare-il-negozio/)
-  * [Configurare i Parametri del tuo Negozio](configurare-il-negozio/configurare-i-parametri-del-tuo-negozio/)
+  * [Configurare i Parametri del tuo Negozio](configurare-il-negozio/parametri-del-tuo-negozio/)
   * [Configurare i Parametri Avanzati](configurare-il-negozio/configurare-i-parametri-avanzati/)
 * [Gestire Negozi Multipli](gestire-negozi-multipli/)
   * [L'interfaccia Multinegozio](gestire-negozi-multipli/linterfaccia-multinegozio.md)
