@@ -5,5 +5,5 @@ La sezione "Configura" consente di configurare e ottimizzare alcuni dettagli del
 Questo capito contiene le seguenti sezioni:
 
 * [Configurare i Parametri del tuo Negozio](parametri-del-tuo-negozio/)
-* [Configurare i Parametri Avanzati](configurare-i-parametri-avanzati/)
+* [Configurare i Parametri Avanzati](parametri-avanzati/)
 
