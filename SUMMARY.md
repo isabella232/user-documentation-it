@@ -4,7 +4,7 @@
 * [Guida introduttiva di PrestaShop 1.7](guida-introduttiva-di-prestashop-1.7/README.md)
   * [Di che cosa hai bisogno per iniziare](guida-introduttiva-di-prestashop-1.7/di-che-cosa-hai-bisogno-per-iniziare.md)
   * [Installazione di PrestaShop 1.7](guida-introduttiva-di-prestashop-1.7/installazione-di-prestashop-1.7.md)
-  * [Installazione di PrestaShop sul tuo computer](guida-introduttiva-di-prestashop-1.7/installazione-di-prestashop-sul-tuo-computer.md)
+  * [Installazione di PrestaShop sul tuo computer](guida-introduttiva-di-prestashop-1.7/installazione-di-prestashop-computer.md)
   * [Installazione di PrestaShop con lo script della riga di comando](guida-introduttiva-di-prestashop-1.7/installazione-di-prestashop-con-lo-script-della-riga-di-comando.md)
   * [Disinstallazione di PrestaShop](guida-introduttiva-di-prestashop-1.7/disinstallazione-di-prestashop.md)
   * [Informazioni di varia natura](guida-introduttiva-di-prestashop-1.7/informazioni-di-varia-natura.md)

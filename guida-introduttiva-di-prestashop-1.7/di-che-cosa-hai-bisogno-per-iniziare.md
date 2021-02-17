@@ -176,7 +176,7 @@ Infine, ora che tutti i requisiti sono stati soddisfatti, puoi utilizzare la gui
     * Completamento dell'installazione
 
 Il presente capitolo è indirizzato agli utenti che intendono installare PrestaShop sul proprio server web on-line.  
- Se desideri installare PrestaShop sul tuo computer, devi prima consultare le istruzioni contenute nella pagina: [Installazione di PrestaShop sul tuo computer](installazione-di-prestashop-sul-tuo-computer.md).
+ Se desideri installare PrestaShop sul tuo computer, devi prima consultare le istruzioni contenute nella pagina: [Installazione di PrestaShop sul tuo computer](installazione-di-prestashop-computer.md).
 
 Se hai già letto queste istruzioni, passa alla sezione "Creazione di un database per il tuo negozio" nella pagina corrente.
 

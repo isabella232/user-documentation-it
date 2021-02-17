@@ -8,7 +8,7 @@ I capitoli presentati dovrebbero essere letti in sequenza: ad esempio, il capito
 
 * [Di che cosa hai bisogno per iniziare](di-che-cosa-hai-bisogno-per-iniziare.md)
 * [Installazione di PrestaShop 1.7](installazione-di-prestashop-1.7.md)
-* [Installazione di PrestaShop sul tuo computer](installazione-di-prestashop-sul-tuo-computer.md)
+* [Installazione di PrestaShop sul tuo computer](installazione-di-prestashop-computer.md)
 * [Installazione di PrestaShop con lo script della riga di comando](installazione-di-prestashop-con-lo-script-della-riga-di-comando.md)
 * [Disinstallazione di PrestaShop](disinstallazione-di-prestashop.md)
 * [Informazioni di varia natura](informazioni-di-varia-natura.md)
