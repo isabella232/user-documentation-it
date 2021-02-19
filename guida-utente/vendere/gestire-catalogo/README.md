@@ -19,7 +19,7 @@ Questo capitolo contiene le seguenti sezioni:
 * [Gestire Fornitori](gestire-fornitori.md)
 * [Gestire i Files](gestire-files.md)
 * [Gestire gli Sconti](gestire-sconti/)
-* [Gestire il Magazzino](gestire-il-magazzino/)
+* [Gestire il Magazzino](gestire-magazzino/)
 
 ![](../../../.gitbook/assets/54267282.png)
 
