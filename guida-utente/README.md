@@ -16,7 +16,7 @@ Capitoli di questa guida:
 * [Primi Passi con PrestaShop 1.7](primi-passi.md)
 * [Vendere con PrestaShop](vendere/)
   * [Gestire gli Ordini](vendere/gestire-gli-ordini/)
-  * [Gestire il Catalogo Prodotti](vendere/gestire-il-catalogo-prodotti/)
+  * [Gestire il Catalogo Prodotti](vendere/gestire-catalogo/)
   * [Gestire i Clienti](vendere/gestire-i-clienti/)
   * [Gestire il Servizio Clienti](vendere/gestire-il-servizio-clienti/)
   * [Capire le Statistiche](vendere/capire-le-statistiche.md)
