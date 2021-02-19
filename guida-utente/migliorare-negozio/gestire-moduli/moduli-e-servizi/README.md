@@ -12,5 +12,5 @@ Segui i collegamenti per maggiori dettagli su queste schede:
 
 * [ Selezione Moduli](selezione-moduli.md)
 * [ Moduli Installati](moduli-installati.md)
-* [ Notifiche dei Moduli](notifiche-dei-moduli.md)
+* [ Notifiche dei Moduli](notifiche-moduli.md)
 
