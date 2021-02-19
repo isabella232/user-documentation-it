@@ -4,7 +4,7 @@
 
 Questo capitolo contiene le seguenti sezioni:
 
-* [Gestire i Moduli](gestire-i-moduli/)
+* [Gestire i Moduli](gestire-moduli/)
 * [Personalizzare il Design del tuo Negozio](personalizzare-il-design-del-tuo-negozio/)
 * [Gestire le Spedizioni](gestire-le-spedizioni/)
 * [Gestire i Pagamenti](gestire-i-pagamenti/)

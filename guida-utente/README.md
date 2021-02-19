@@ -21,7 +21,7 @@ Capitoli di questa guida:
   * [Gestire il Servizio Clienti](vendere/gestire-servizio-clienti/)
   * [Capire le Statistiche](vendere/capire-statistiche.md)
 * [Migliorare il tuo Negozio](migliorare-negozio/)
-  * [Gestire i Moduli](migliorare-negozio/gestire-i-moduli/)
+  * [Gestire i Moduli](migliorare-negozio/gestire-moduli/)
   * [Personalizzare il Design del tuo Negozio](migliorare-negozio/personalizzare-il-design-del-tuo-negozio/)
   * [Gestire le Spedizioni](migliorare-negozio/gestire-le-spedizioni/)
   * [Gestire i Pagamenti](migliorare-negozio/gestire-i-pagamenti/)
