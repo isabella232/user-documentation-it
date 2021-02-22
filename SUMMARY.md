@@ -117,10 +117,10 @@
       * [Webservice \(Servizio Web\)](guida-utente/configurare-negozio/parametri-avanzati/webservice-servizio-web.md)
       * [Multinegozio](guida-utente/configurare-negozio/parametri-avanzati/multinegozio.md)
   * [Gestire Negozi Multipli](guida-utente/gestire-negozi-multipli/README.md)
-    * [L'interfaccia Multinegozio](guida-utente/gestire-negozi-multipli/linterfaccia-multinegozio.md)
-    * [Creare un nuovo gruppo negozi](guida-utente/gestire-negozi-multipli/creare-un-nuovo-gruppo-negozi.md)
+    * [L'interfaccia Multinegozio](guida-utente/gestire-negozi-multipli/interfaccia-multinegozio.md)
+    * [Creare un nuovo gruppo negozi](guida-utente/gestire-negozi-multipli/creare-nuovo-gruppo-negozi.md)
     * [Creare un nuovo negozio](guida-utente/gestire-negozi-multipli/creare-nuovo-negozio.md)
     * [Impostare l’URL di un negozio](guida-utente/gestire-negozi-multipli/impostare-url-negozio.md)
     * [Esempi di Uso e Specifiche](guida-utente/gestire-negozi-multipli/esempi-di-uso-e-specifiche.md)
-  * [Esplorare il front office](guida-utente/esplorare-il-front-office.md)
+  * [Esplorare il front office](guida-utente/esplorare-front-office.md)
 
