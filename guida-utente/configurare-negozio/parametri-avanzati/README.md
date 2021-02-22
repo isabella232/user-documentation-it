@@ -8,7 +8,7 @@ Esplorare il menu dei parametri avanzati Ã¨ come guardare sotto il cofano di unâ
 * [ E-mail](e-mail.md)
 * [ Importazione](importazione.md)
 *  [Squadra](squadra/)
-*  [Database \(Base Dati\)](database-base-dati/)
+*  [Database \(Base Dati\)](base-dati/)
 *  [Log](log.md)
 *  [Webservice \(Servizio Web\)](webservice-servizio-web.md)
 *  [Multinegozio](multinegozio.md)
