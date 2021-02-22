@@ -111,7 +111,7 @@
         * [Profili](guida-utente/configurare-negozio/parametri-avanzati/squadra/profili.md)
         * [Autorizzazioni](guida-utente/configurare-negozio/parametri-avanzati/squadra/autorizzazioni.md)
       * [Database \(Base Dati\)](guida-utente/configurare-negozio/parametri-avanzati/base-dati/README.md)
-        * [SQL Manager/ Gestore SQL](guida-utente/configurare-negozio/parametri-avanzati/base-dati/sql-manager-gestore-sql.md)
+        * [SQL Manager/ Gestore SQL](guida-utente/configurare-negozio/parametri-avanzati/base-dati/gestore-sql.md)
         * [Backup del Database](guida-utente/configurare-negozio/parametri-avanzati/base-dati/backup-del-database.md)
       * [Log](guida-utente/configurare-negozio/parametri-avanzati/log.md)
       * [Webservice \(Servizio Web\)](guida-utente/configurare-negozio/parametri-avanzati/webservice-servizio-web.md)

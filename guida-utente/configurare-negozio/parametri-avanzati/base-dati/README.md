@@ -4,6 +4,6 @@ Il menu del database contiene la pagina SQL Manager e il backup del database: tu
 
 Questo capitolo contiene le seguenti sezioni: 
 
-* [SQL Manager/ Gestore SQL](sql-manager-gestore-sql.md)
+* [SQL Manager/ Gestore SQL](gestore-sql.md)
 * [Backup del Database](backup-del-database.md)
 
