@@ -32,7 +32,7 @@ Usare la funzionalità Multinegozio
 
 * [L'interfaccia Multinegozio](linterfaccia-multinegozio.md)
 * [Creare un nuovo gruppo negozi](creare-un-nuovo-gruppo-negozi.md)
-* [Creare un nuovo negozio](creare-un-nuovo-negozio.md)
+* [Creare un nuovo negozio](creare-nuovo-negozio.md)
 * [Impostare l’URL di un negozio](impostare-url-negozio.md)
 * [Esempi di Uso e Specifiche](esempi-di-uso-e-specifiche.md)
 

@@ -32,9 +32,9 @@ Capitoli di questa guida:
 * [Gestire Negozi Multipli](gestire-negozi-multipli/)
   * [L'interfaccia Multinegozio](gestire-negozi-multipli/linterfaccia-multinegozio.md)
   * [Creare un nuovo gruppo negozi](gestire-negozi-multipli/creare-un-nuovo-gruppo-negozi.md)
-  * [Creare un nuovo negozio](gestire-negozi-multipli/creare-un-nuovo-negozio.md)
+  * [Creare un nuovo negozio](gestire-negozi-multipli/creare-nuovo-negozio.md)
   * [Impostare l’URL di un negozio](gestire-negozi-multipli/impostare-url-negozio.md)
   * [Esempi di Uso e Specifiche](gestire-negozi-multipli/esempi-di-uso-e-specifiche.md)
-* [Conformarsi con la legislazione europea](conformarsi-con-la-legislazione-europea.md)
+* [Conformarsi con la legislazione europea]()
 * [Esplorare il front office](esplorare-il-front-office.md)
 
