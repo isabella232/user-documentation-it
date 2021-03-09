@@ -4,7 +4,7 @@ I tuoi prodotti, il modo in cui il tuo catalogo è organizzato, i tuoi ordini, i
 
 Questo capitolo contiene le seguenti sezioni:
 
-* [Gestire gli Ordini](gestire-gli-ordini/)
+* [Gestire gli Ordini](gestire-ordini/)
 * [Gestire il Catalogo Prodotti](gestire-catalogo/)
 * [Gestire i Clienti](gestire-clienti/)
 * [Gestire il Servizio Clienti](gestire-servizio-clienti/)

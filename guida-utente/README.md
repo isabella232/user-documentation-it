@@ -15,7 +15,7 @@ Capitoli di questa guida:
 * [Scoprire l’Area di Amministrazione](scoprire-area-amministrazione.md)
 * [Primi Passi con PrestaShop 1.7](primi-passi.md)
 * [Vendere con PrestaShop](vendere/)
-  * [Gestire gli Ordini](vendere/gestire-gli-ordini/)
+  * [Gestire gli Ordini](vendere/gestire-ordini/)
   * [Gestire il Catalogo Prodotti](vendere/gestire-catalogo/)
   * [Gestire i Clienti](vendere/gestire-clienti/)
   * [Gestire il Servizio Clienti](vendere/gestire-servizio-clienti/)
