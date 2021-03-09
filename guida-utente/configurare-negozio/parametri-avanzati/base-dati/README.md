@@ -7,3 +7,5 @@ Questo capitolo contiene le seguenti sezioni:
 * [SQL Manager/ Gestore SQL](gestore-sql.md)
 * [Backup del Database](backup-del-database.md)
 
+test
+
