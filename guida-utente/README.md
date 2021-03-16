@@ -24,7 +24,7 @@ Capitoli di questa guida:
   * [Gestire i Moduli](migliorare-negozio/gestire-moduli/)
   * [Personalizzare il Design del tuo Negozio](migliorare-negozio/personalizzare-design-negozio/)
   * [Gestire le Spedizioni](migliorare-negozio/gestire-spedizioni/)
-  * [Gestire i Pagamenti](migliorare-negozio/gestire-i-pagamenti/)
+  * [Gestire i Pagamenti](migliorare-negozio/gestire-pagamenti/)
   * [Diventare Internazionali](migliorare-negozio/diventare-internazionali/)
 * [Configurare il negozio](configurare-negozio/)
   * [Configurare i Parametri del tuo Negozio](configurare-negozio/parametri-negozio/)

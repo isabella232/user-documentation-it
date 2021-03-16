@@ -7,6 +7,6 @@ Questo capitolo contiene le seguenti sezioni:
 * [Gestire i Moduli](gestire-moduli/)
 * [Personalizzare il Design del tuo Negozio](personalizzare-design-negozio/)
 * [Gestire le Spedizioni](gestire-spedizioni/)
-* [Gestire i Pagamenti](gestire-i-pagamenti/)
+* [Gestire i Pagamenti](gestire-pagamenti/)
 * [Diventare Internazionali](diventare-internazionali/)
 
