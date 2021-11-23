@@ -1,6 +1,6 @@
 # Gestire i Marchi
 
-A meno che sia tu l’autore dei tuoi prodotti, devi sempre registrare in PrestaShop i marchi dei tuoi prodotti. Nelle precedenti versioni di PrestaShop i marchi venivano chiamati produttori. 
+A meno che sia tu l’autore dei tuoi prodotti, devi sempre registrare in PrestaShop i marchi dei tuoi prodotti. Nelle precedenti versioni di PrestaShop i marchi venivano chiamati produttori.&#x20;
 
 I marchi venivano chiamati produttori nelle versioni precedenti di PrestaShop
 
@@ -18,7 +18,7 @@ Inserendo informazioni sui marchi, i visitatori del tuo sito possono avere acces
 
 ![](../../../.gitbook/assets/54267170.png)
 
-## Crea un marchio <a id="GestireiMarchi-Creaunmarchio"></a>
+## Crea un marchio <a href="gestireimarchi-creaunmarchio" id="gestireimarchi-creaunmarchio"></a>
 
 Clicca sul pulsante "Aggiungi nuovo marchio" e si apparirà il form.
 
@@ -26,23 +26,24 @@ Clicca sul pulsante "Aggiungi nuovo marchio" e si apparirà il form.
 
 Compila tutti i campi:
 
-* **Nome**. Indica il nome del marchio per semplificare la ricerca dei tuoi clienti. 
-* **Breve descrizione**. La descrizione che apparirà sui motori di ricerca quando un utente effettuerà una ricerca. Il limite è di 100 caratteri. 
-* **Descrizione**. Aggiungi una descrizione più complessa per il marchio, l’attività e i prodotti. Puoi dettagliare le peculiarità e promuovere la qualità dei prodotti. La descrizione del brand verrà mostrata nel tuo negozio insieme alle altre. 
+* **Nome**. Indica il nome del marchio per semplificare la ricerca dei tuoi clienti.&#x20;
+* **Breve descrizione**. La descrizione che apparirà sui motori di ricerca quando un utente effettuerà una ricerca. Il limite è di 100 caratteri.&#x20;
+* **Descrizione**. Aggiungi una descrizione più complessa per il marchio, l’attività e i prodotti. Puoi dettagliare le peculiarità e promuovere la qualità dei prodotti. La descrizione del brand verrà mostrata nel tuo negozio insieme alle altre.&#x20;
 * **Logo**. Avere un logo del marchio è essenziale: aiuta i clienti a fidarsi del tuo negozio così come si fidano di quel brand.
-* I campi SEO \(Titolo, Meta descrizione e Parole chiave\) forniscono la stessa funzionalità come nel caso delle categorie. 
+* I campi SEO (Titolo, Meta descrizione e Parole chiave) forniscono la stessa funzionalità come nel caso delle categorie.&#x20;
   * **Meta titolo**. Il titolo che apparirà nei motori di ricerca quando un cliente effettuerà la ricerca.
-  * **Meta descrizione**. Una presentazione del brand di giusto qualche riga per catturare l’interesse del cliente. Apparirà nei risultati di ricerca. 
+  * **Meta descrizione**. Una presentazione del brand di giusto qualche riga per catturare l’interesse del cliente. Apparirà nei risultati di ricerca.&#x20;
   * **Parole chiave**. Le parole chiave da definire per farti trovare nei motori di ricerca. Ne puoi inserire diverse, separate dalle virgole, così come i modi di dire e le espressioni devono essere indicati tra virgolette.
-* **Attiva**. Puoi disabilitare un brand anche solo temporaneamente. Verrà rimosso dalla lista dei brand nel front end del tuo negozio. 
+* **Attiva**. Puoi disabilitare un brand anche solo temporaneamente. Verrà rimosso dalla lista dei brand nel front end del tuo negozio.&#x20;
 
 Salva le modifiche per tornare nell'elenco dei marchi. Da lì, puoi:
 
-* Cliccare sul nome o sul logo di un brand per ottenere l’elenco di tutti i prodotti associati. Se ancora non ci sono, è necessario associare ogni prodotto a tale marchio dalla pagina "Prodotti" nel menu "Catalogo". Lo stesso risultato viene raggiunto cliccando sull'icona "Visualizza" a destra della pagina corrente.
+* Cliccare sul nome o sul logo di un brand per ottenere l’elenco di tutti i prodotti associati. Se ancora non ci sono, è necessario associare ogni prodotto a tale marchio dalla pagina "Prodotti" nel menu "Catalogo".\
+  Lo stesso risultato viene raggiunto cliccando sull'icona "Visualizza" a destra della pagina corrente.
 * Disattivare il brand, cliccando sulla spunta verde. Una volta disabilitato, appare una croce rossa al suo posto: clicca per riattivare la marca.
 * Visualizzare/modificare /eliminare il brand cliccando sui rispettivi pulsanti a destra della riga.
 
-## Aggiungere un indirizzo del brand <a id="GestireiMarchi-Aggiungereunindirizzodelbrand"></a>
+## Aggiungere un indirizzo del brand <a href="gestireimarchi-aggiungereunindirizzodelbrand" id="gestireimarchi-aggiungereunindirizzodelbrand"></a>
 
 Nella parte inferiore della pagina "Marchi" è presente una sezione "Indirizzi". Ogni marchio può avere un proprio indirizzo registrato in PrestaShop. Questo serve soprattutto come un promemoria per te: in questo modo, avrai sempre l'indirizzo di contatto del marchio, disponibile direttamente all'interno di PrestaShop.
 
@@ -51,4 +52,3 @@ Clicca sul pulsante "Aggiungi nuovo indirizzo del brand" per aprire il form.
 ![](../../../.gitbook/assets/54267172.png)
 
 Accertati di scegliere la marca corretta e di riempire il maggior numero possibile di campi.
-

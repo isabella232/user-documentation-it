@@ -1,6 +1,6 @@
 # Selezione Moduli
 
-La scheda "Selezione" riguarda la ricerca di nuovi moduli e servizi per migliorare il tuo negozio. Qui troverai un elenco di tutti i moduli che puoi installare \(ma non quelli già installati\).
+La scheda "Selezione" riguarda la ricerca di nuovi moduli e servizi per migliorare il tuo negozio. Qui troverai un elenco di tutti i moduli che puoi installare (ma non quelli già installati).
 
 ![](../../../../.gitbook/assets/54267769.png)
 
@@ -25,7 +25,9 @@ Un **modulo** consente di aggiungere funzionalità al tuo negozio come nuovi mez
 
 D'altra parte, un **servizio** è intangibile: non è necessario installare nulla sul tuo negozio per il servizio su cui lavorare. Invece, potrebbe essere necessario firmare un contratto con il fornitore di servizi. I servizi vengono identificati con il pulsante "Scopri".
 
-##  Cercare un modulo o un servizio <a id="SelezioneModuli-Cercareunmoduloounservizio"></a>
+\
+Cercare un modulo o un servizio <a href="selezionemoduli-cercareunmoduloounservizio" id="selezionemoduli-cercareunmoduloounservizio"></a>
+-----------------------------------------------------------------------------------------------------------------------------------------
 
 Se hai un bisogno specifico e stai cercando un modulo che ti aiuti, hai due modi a disposizione per cercare un modulo:
 
@@ -38,7 +40,7 @@ Se hai un bisogno specifico e stai cercando un modulo che ti aiuti, hai due modi
 
 Se la tua ricerca non fornisce risultati, un link ti invita a visitare il Marketplace Addons dove troverai più moduli.
 
-### **Filtrare i Moduli** <a id="SelezioneModuli-FiltrareiModuli"></a>
+### **Filtrare i Moduli** <a href="selezionemoduli-filtrareimoduli" id="selezionemoduli-filtrareimoduli"></a>
 
 Oltre alla ricerca, puoi anche ordinare i moduli per trovare meglio ciò che ti serve, con questi filtri:
 
@@ -49,9 +51,9 @@ Oltre alla ricerca, puoi anche ordinare i moduli per trovare meglio ciò che ti 
 
 Che cos'è un modulo incorporato?
 
-I moduli incorporati \(o nativi\) sono disponibili nel tuo negozio sin dall’installazione. Alcuni sono già preinstallati per aiutare l’esecuzione del tuo negozio \(li troverai nella scheda "Moduli installati"\) mentre altri sono disponibili nella scheda "Selezione". Puoi scegliere di installarli o meno, a seconda delle tue esigenze. Coprono le basi del commercio elettronico e sono gratuiti.
+I moduli incorporati (o nativi) sono disponibili nel tuo negozio sin dall’installazione. Alcuni sono già preinstallati per aiutare l’esecuzione del tuo negozio (li troverai nella scheda "Moduli installati") mentre altri sono disponibili nella scheda "Selezione". Puoi scegliere di installarli o meno, a seconda delle tue esigenze. Coprono le basi del commercio elettronico e sono gratuiti.
 
-### Mostra risultati <a id="SelezioneModuli-Mostrarisultati"></a>
+### Mostra risultati <a href="selezionemoduli-mostrarisultati" id="selezionemoduli-mostrarisultati"></a>
 
 Ci sono due opzioni da scegliere per visualizzare l'elenco dei moduli.
 
@@ -62,7 +64,7 @@ Ci sono due opzioni da scegliere per visualizzare l'elenco dei moduli.
 
 Cliccando su "Scopri di più" troverai ulteriori dettagli su ogni modulo o servizio.
 
-### **Informazioni sui moduli e servizi** <a id="SelezioneModuli-Informazionisuimodulieservizi"></a>
+### **Informazioni sui moduli e servizi** <a href="selezionemoduli-informazionisuimodulieservizi" id="selezionemoduli-informazionisuimodulieservizi"></a>
 
 Ogni modulo viene fornito con una serie di informazioni che ti guideranno nella tua scelta.
 
@@ -73,18 +75,18 @@ Ogni modulo viene fornito con una serie di informazioni che ti guideranno nella 
   * "Dallo sviluppatore comunitario" comprende singoli contributori o agenzie della comunità PrestaShop i cui moduli sono disponibili su Addons.
 * **Versione del modulo**. La versione del modulo da installare.
 * **Breve descrizione**. Una breve frase per descrivere lo scopo del modulo o del servizio e come può aiutarti
-* **Popolarità**. La valutazione data su Addons del modulo \(su cinque stelle\) e il numero di voti.
+* **Popolarità**. La valutazione data su Addons del modulo (su cinque stelle) e il numero di voti.
 
 #### **Scopri di più**
 
-Se le informazioni di base non ti bastano per prendere una decisione, puoi cliccare su "Scopri di più" per ulteriori dettagli. Si apre un pop-up, con un'immagine del modulo \(la sua icona o qualche volta uno screenshot\) e diverse schede. Queste informazioni sono fornite dall'autore del modulo, quindi possono variare da un modulo all'altro in termini di quantità e qualità.
+Se le informazioni di base non ti bastano per prendere una decisione, puoi cliccare su "Scopri di più" per ulteriori dettagli. Si apre un pop-up, con un'immagine del modulo (la sua icona o qualche volta uno screenshot) e diverse schede. Queste informazioni sono fornite dall'autore del modulo, quindi possono variare da un modulo all'altro in termini di quantità e qualità.
 
 * **Panoramica**. Breve descrizione del modulo.
 * **Informazioni aggiuntive**. Informazioni più dettagliate.
 * **Vantaggi**. I benefici che il modulo porterà al tuo negozio.
 * **Caratteristiche**. Quali funzionalità ci si può aspettare dal modulo.
-* **Video demo** \(opzionale\). Un breve video che presenta il modulo.
-* **Ultime Modifiche** \(opzionale\). Un elenco delle novità dell'ultima versione del modulo. Che cosa è stato migliorato o stato aggiunto.
+* **Video demo** (opzionale). Un breve video che presenta il modulo.
+* **Ultime Modifiche** (opzionale). Un elenco delle novità dell'ultima versione del modulo. Che cosa è stato migliorato o stato aggiunto.
 
 ![](../../../../.gitbook/assets/54267773.png)
 
@@ -94,7 +96,7 @@ Nella parte inferiore della finestra pop-up possono essere mostrati alcuni badge
 * **Partner ufficiale**. Questo modulo è stato sviluppato da un Partner PrestaShop o da un’agenzia Partner.
 * **Preferito da PrestaShop**. Questi moduli sono stati premiati dal team PrestaShop come moduli particolarmente semplici e utili!
 
-## **Installare o acquistare un modulo** <a id="SelezioneModuli-Installareoacquistareunmodulo"></a>
+## **Installare o acquistare un modulo** <a href="selezionemoduli-installareoacquistareunmodulo" id="selezionemoduli-installareoacquistareunmodulo"></a>
 
 Quando hai scelto il modulo di cui hai bisogno, a seconda del tipo di modulo, puoi eseguire tre diversi tipi di azioni.
 
@@ -104,19 +106,19 @@ Quando hai scelto il modulo di cui hai bisogno, a seconda del tipo di modulo, pu
 
 Una volta installato un modulo, lo troverai nell'elenco dei moduli nella scheda "Moduli installati", che è il capitolo successivo.
 
-## **Caricare un modulo manualmente** <a id="SelezioneModuli-Caricareunmodulomanualmente"></a>
+## **Caricare un modulo manualmente** <a href="selezionemoduli-caricareunmodulomanualmente" id="selezionemoduli-caricareunmodulomanualmente"></a>
 
 Una volta scaricato un modulo dal negozio online Addons, sta a te installarlo sul tuo sito PrestaShop.
 
 Se non hai collegato il negozio all'account Addons, ci sono due modi per installare un modulo: utilizzando il modulo dedicato o utilizzando il tuo client FTP.
 
-### **Installarlo utilizzando il form di caricamento** <a id="SelezioneModuli-Installarloutilizzandoilformdicaricamento"></a>
+### **Installarlo utilizzando il form di caricamento** <a href="selezionemoduli-installarloutilizzandoilformdicaricamento" id="selezionemoduli-installarloutilizzandoilformdicaricamento"></a>
 
 Per installare automaticamente un nuovo modulo PrestaShop, clicca sul pulsante "Carica un modulo" nella parte superiore della pagina. Si aprirà una finestra popup.
 
 ![](../../../../.gitbook/assets/54267774.png)
 
-Questo blocco consente di caricare il file zippati del modulo, scaricato da Addons. È possibile caricare un file `zip` o un file `tar.gz`  \(tarball\). Basta semplicemente trascinare il file del modulo qui, oppure sfogliare il file scaricato cliccando su "seleziona file". Non indica la cartella non compressa del modulo o i suoi file non compressi: solo file zippati!
+Questo blocco consente di caricare il file zippati del modulo, scaricato da Addons. È possibile caricare un file `zip` o un file `tar.gz`  (tarball). Basta semplicemente trascinare il file del modulo qui, oppure sfogliare il file scaricato cliccando su "seleziona file". Non indica la cartella non compressa del modulo o i suoi file non compressi: solo file zippati!
 
 Una volta che il file viene rilevato, l'installazione viene avviata automaticamente: PrestaShop caricherà il modulo dal computer al suo server, lo decomprime, inserisce i file nella posizione corretta e aggiorna la pagina, tutto questo in pochi secondi. PrestaShop mostrerà quindi "Modulo installato!".
 
@@ -126,14 +128,14 @@ I moduli non vengono installati per impostazione predefinita: è necessario fare
 
 Una volta completata la configurazione, assicurati di verificare immediatamente il modulo per confermare che funziona come previsto.
 
-### **Installazione utilizzando un client FTP** <a id="SelezioneModuli-InstallazioneutilizzandounclientFTP"></a>
+### **Installazione utilizzando un client FTP** <a href="selezionemoduli-installazioneutilizzandounclientftp" id="selezionemoduli-installazioneutilizzandounclientftp"></a>
 
 È inoltre possibile scegliere di installare un modulo da soli, utilizzando un client FTP.
 
 Per installare manualmente un nuovo modulo PrestaShop:
 
-1. Unzip \(decomprimi\) il file di archivio del modulo \(`.zip` o `tar.gz`\). Si dovrebbe creare una nuova cartella.
-2. Utilizza il tuo client FTP, connettiti al server web PrestaShop e inserisci la cartella decompressa nella cartella / `modules` di PrestaShop. Fai attenzione a NON caricare quella cartella nella cartella di un altro modulo \(cosa che può succedere trascinando oggetti\). Carica sia la cartella che i file che contiene, non solo i file.
+1. Unzip (decomprimi) il file di archivio del modulo (`.zip` o `tar.gz`). Si dovrebbe creare una nuova cartella.
+2. Utilizza il tuo client FTP, connettiti al server web PrestaShop e inserisci la cartella decompressa nella cartella / `modules` di PrestaShop. Fai attenzione a NON caricare quella cartella nella cartella di un altro modulo (cosa che può succedere trascinando oggetti). Carica sia la cartella che i file che contiene, non solo i file.
 3. Vai al tuo back office, nella scheda "Selezione".
 4. Individua il nuovo modulo nell'elenco dei moduli. Potresti dover scorrere verso il basso; è anche possibile utilizzare il motore di ricerca della lista che dovrebbe fornire un elenco aggiornato dinamico dei nomi dei moduli corrispondenti.
 5. Nella riga del nuovo modulo, clicca sul pulsante "Installa".
@@ -145,11 +147,11 @@ I moduli possono provenire da molte fonti e non tutte sono affidabili. Questo è
 
 L'installazione di un modulo nativo o di un modulo ottenuto tramite Addons non attiverà la visualizzazione di questa finestra.
 
-## Connettersi all’Addons Marketplace   <a id="SelezioneModuli-Connettersiall&#x2019;AddonsMarketplace"></a>
+## Connettersi all’Addons Marketplace   <a href="selezionemoduli-connettersialladdonsmarketplace" id="selezionemoduli-connettersialladdonsmarketplace"></a>
 
 PrestaShop Addons è il marketplace centrale dove è possibile ottenere nuovi moduli e temi per il tuo negozio. Gli utenti di Addons sono cittadini di prim'ordine quando si tratta di gestire i moduli! Infatti, una volta che l'installazione di PrestaShop è collegata all'account Addons, i moduli ottenuti su Addons saranno automaticamente importati e aggiornati! Ecco perché è altamente consigliabile collegare il proprio negozio al proprio account Addons di PrestaShop.
 
-### Non hai un account Addons? <a id="SelezioneModuli-NonhaiunaccountAddons?"></a>
+### Non hai un account Addons? <a href="selezionemoduli-nonhaiunaccountaddons" id="selezionemoduli-nonhaiunaccountaddons"></a>
 
 Creare un account è gratuito e facile. Clicca sul pulsante "Collegati al marketplace Addons", quindi clicca sul link "Iscriviti ora", che ti porterà qui: [https://addons.prestashop.com/it/login](https://addons.prestashop.com/it/login)
 
@@ -164,4 +166,3 @@ Se hai già un account Addons, clicca sul pulsante "Collegati al Marketplace Add
 ![](../../../../.gitbook/assets/54267777.png)
 
 Inserisci le tue credenziali, clicca su "Andiamo!": l'installazione di PrestaShop è ora collegata all'account Addons e inizierà a confrontare i moduli locali con quelli ottenuti da Addons, assicurandosi di tenerli disponibili e aggiornati!
-

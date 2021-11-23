@@ -4,7 +4,7 @@ In questa pagina è possibile installare, disinstallare, configurare e aggiornar
 
 ![](../../../../.gitbook/assets/54267664.png)
 
-## L’elenco dei Moduli <a id="ModuliInstallati-L&#x2019;elencodeiModuli"></a>
+## L’elenco dei Moduli <a href="moduliinstallati-lelencodeimoduli" id="moduliinstallati-lelencodeimoduli"></a>
 
 Questa lista consente di individuare rapidamente il modulo da configurare o del quale modificare le impostazioni.
 
@@ -41,25 +41,30 @@ La differenza è che la disattivazione di un modulo mantiene la sua configurazio
 
 Pertanto, dovresti disinstallare un modulo sole se non ti interessano i suoi dati o se sei sicuro di non averne più bisogno.
 
-## Effettuare Azioni sui Moduli <a id="ModuliInstallati-EffettuareAzionisuiModuli"></a>
+## Effettuare Azioni sui Moduli <a href="moduliinstallati-effettuareazionisuimoduli" id="moduliinstallati-effettuareazionisuimoduli"></a>
 
 Ecco le azioni disponibili, a seconda dello stato del modulo:
 
-* Moduli disinstallati:  
-  * **Installa.** Questo attiverà l'installazione del modulo su PrestaShop. Il modulo sarà abilitato automaticamente.  
+* Moduli disinstallati: \
+
+  * **Installa.** Questo attiverà l'installazione del modulo su PrestaShop. Il modulo sarà abilitato automaticamente.\
+    \
+
 * Moduli installati:
   * **Upgrade.** L'installazione di PrestaShop controlla regolarmente il server Addons se vi sono aggiornamenti per i moduli. Se è così, il pulsante d’azione diventa "Aggiorna" per i moduli interessati. Basta cliccare su di esso e PrestaShop si occuperà di scaricare e aggiornare il modulo.
-  * **Attiva.** Per i moduli già disabilitati. Una volta abilitato nuovamente, potrebbe aggiungere nuove opzioni al tuo back office. 
-    * **Abilita sul cellulare.** Consentirà la visualizzazione del modulo nel front office dai dispositivi mobili \(smartphone, ecc.\).
+  * **Attiva.** Per i moduli già disabilitati. Una volta abilitato nuovamente, potrebbe aggiungere nuove opzioni al tuo back office.\
+
+    * **Abilita sul cellulare.** Consentirà la visualizzazione del modulo nel front office dai dispositivi mobili (smartphone, ecc.).
   * **Configurazione.** Alcuni moduli hanno una pagina di configurazione. In questo caso, offrono un collegamento "Configura" per accedere a una nuova interfaccia in cui l'utente sarà in grado di regolare tutte le sue impostazioni
-  * **Disabilita.** Se installato, un modulo è abilitato per impostazione predefinita. Puoi disattivarlo, rimuovendo le sue opzioni dal back office, ma mantenendo le impostazioni per una successiva riattivazione. 
-    * **Disattiva sul cellulare.** Disattiverà la visualizzazione del modulo nel front office dai dispositivi mobili \(smartphone, ecc.\).
+  * **Disabilita.** Se installato, un modulo è abilitato per impostazione predefinita. Puoi disattivarlo, rimuovendo le sue opzioni dal back office, ma mantenendo le impostazioni per una successiva riattivazione.\
+
+    * **Disattiva sul cellulare.** Disattiverà la visualizzazione del modulo nel front office dai dispositivi mobili (smartphone, ecc.).
   * **Reset.** Ripristina le impostazioni del modulo ai propri valori predefiniti.
   * **Disinstallazione.** Disattiva il modulo. Per eliminare anche tutti i suoi file e dati, è necessario selezionare l'opzione "Elimina cartella modulo dopo la disinstallazione".
 
 Queste azioni possono essere eseguite singolarmente su ciascun modulo o in massa grazie al menu "Azioni di massa" a destra.
 
-### Disinstallare un Modulo <a id="ModuliInstallati-DisinstallareunModulo"></a>
+### Disinstallare un Modulo <a href="moduliinstallati-disinstallareunmodulo" id="moduliinstallati-disinstallareunmodulo"></a>
 
 **Non eliminare mai un modulo trascinando direttamente la sua cartella nel cestino usando il tuo client FTP!** Devi lasciare che se ne occupi PrestaShop.
 
@@ -70,4 +75,3 @@ Se non ti interessa la configurazione del modulo, clicca sul pulsante "Disinstal
 Se desideri rimuovere completamente il modulo dal server, clicca sul collegamento "Elimina": PrestaShop si sbarazzerà della cartella e di tutti i suoi file.
 
 Assicurarti che la disinstallazione o la rimozione del modulo non rompa il tema.
-

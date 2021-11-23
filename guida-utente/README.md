@@ -6,7 +6,7 @@ Questa guida utente ti aiuterà a familiarizzare con tutte le funzionalità di P
 
 Puoi porre tutte le tue domande direttamente sul nostro forum: [http://www.prestashop.com/forums/](http://www.prestashop.com/forums/)
 
-Capitoli di questa guida:  
+Capitoli di questa guida:\
 
 
 * [Formazione](formazione.md)
@@ -35,6 +35,5 @@ Capitoli di questa guida:
   * [Creare un nuovo negozio](gestire-negozi-multipli/creare-nuovo-negozio.md)
   * [Impostare l’URL di un negozio](gestire-negozi-multipli/impostare-url-negozio.md)
   * [Esempi di Uso e Specifiche](gestire-negozi-multipli/esempi-di-uso-e-specifiche.md)
-* [Conformarsi con la legislazione europea]()
+* [Conformarsi con la legislazione europea](broken-reference)
 * [Esplorare il front office](esplorare-front-office.md)
-

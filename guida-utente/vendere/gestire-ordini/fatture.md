@@ -2,11 +2,11 @@
 
 Ogni volta che viene confermato un ordine nel tuo negozio, viene inviata una fattura al cliente. Questa pagina consente di configurare le fatture e di scaricare una selezione di fatture.
 
-## Generare fatture in file PDF <a id="Fatture-GenerarefattureinfilePDF"></a>
+## Generare fatture in file PDF <a href="fatture-generarefattureinfilepdf" id="fatture-generarefattureinfilepdf"></a>
 
-È possibile scaricare le fatture per un singolo ordine dalla pagina dell'ordine. La pagina "Fatture" consente di scaricare, contemporaneamente, una selezione di fatture dagli ordini passati in formato PDF, \(in un unico file PDF\).
+È possibile scaricare le fatture per un singolo ordine dalla pagina dell'ordine. La pagina "Fatture" consente di scaricare, contemporaneamente, una selezione di fatture dagli ordini passati in formato PDF, (in un unico file PDF).
 
-![](../../../.gitbook/assets/54267478%20%281%29.png)
+![](../../../.gitbook/assets/54267478.png)
 
 È possibile ottenere un file PDF contenente più fatture in base a due criteri principali:
 
@@ -21,7 +21,7 @@ I file del modello PDF si trovano nella cartella `/pdf`. Apri il file `invoice.t
 
 Quando i clienti richiedono le fatture, è possibile reindirizzarli alla sezione "Cronologia ordini" del loro account utente con tutte le fatture disponibili.
 
-## Opzioni Fatture <a id="Fatture-OpzioniFatture"></a>
+## Opzioni Fatture <a href="fatture-opzionifatture" id="fatture-opzionifatture"></a>
 
 Puoi scegliere se le fatture devono essere rese subito disponibili o meno ai tuoi clienti non appena l'ordine viene effettuato, così come impostare il prefisso e il numero di fattura che desideri elencare nella versione stampata della fattura. Questa funzionalità consente di semplificare la gestione del tuo account.
 
@@ -30,7 +30,8 @@ Puoi scegliere se le fatture devono essere rese subito disponibili o meno ai tuo
 * **Attiva fatturazione.** Se disattivato, il cliente non riceverà una fattura dopo l'acquisto. Sarai responsabile della gestione delle fatture.
 * **Abilita la scorporo delle tasse.** _Novità in 1.6_. Quando abilitato, la fattura elenca tutte le diverse imposte applicate all'ordine, invece di una sola percentuale.
 * **Abilita l'immagine del prodotto.** _Novità in 1.6.1_. Quando abilitata, aggiungerà l'immagine del prodotto accanto al nome del prodotto nella fattura.
-* **Prefisso fatture.** Per impostazione predefinita, PrestaShop dispone di prefissi di fattura adattati alla lingua: "FA" in italiano, "IN" in inglese \(per “_invoice_”\), "FA" in francese \(per "_facture_"\), "CU" in spagnolo \(per "_cuenta_"\) ecc. puoi anche scegliere codici di lingua: “IT”, "EN", "FR", "SP", ecc. Ovviamente puoi anche scegliere di avere un solo prefisso per ogni lingua o di non avere un prefisso. PrestaShop genererà quindi il numero di fatture in base alle impostazioni dell'utente: "\# IN000001", "\# FA000002", ecc.
+* **Prefisso fatture.** Per impostazione predefinita, PrestaShop dispone di prefissi di fattura adattati alla lingua: "FA" in italiano, "IN" in inglese (per “_invoice_”), "FA" in francese (per "_facture_"), "CU" in spagnolo (per "_cuenta_") ecc. puoi anche scegliere codici di lingua: “IT”, "EN", "FR", "SP", ecc. Ovviamente puoi anche scegliere di avere un solo prefisso per ogni lingua o di non avere un prefisso.\
+  PrestaShop genererà quindi il numero di fatture in base alle impostazioni dell'utente: "# IN000001", "# FA000002", ecc.
 * **Aggiungi l'anno corrente al numero di fattura.** Oltre al numero di fattura e al prefisso, apparirà anche l'anno nel numero della fattura.
 * **Reimposta a inizio anno il numero di fattura progressivo.** All'inizio di un nuovo anno, il numero di fattura viene ripristinato per ricominciare da 0.
 * **Posizione dell'anno nella data.** Scegli dove visualizzare l’anno nella data del numero della fattura, prima o dopo il numero progressivo.
@@ -41,4 +42,3 @@ Puoi scegliere se le fatture devono essere rese subito disponibili o meno ai tuo
 * **Utilizzare il disco come cache per le fatture PDF.** È possibile scegliere di memorizzare le fatture generate sul disco server di PrestaShop piuttosto che nella cache del server. Anche se consente di risparmiare sull'utilizzo della memoria, rallenta la generazione dei PDF, perciò utilizzala in modo consapevole.
 
 Non dimenticate di salvare le modifiche.
-
