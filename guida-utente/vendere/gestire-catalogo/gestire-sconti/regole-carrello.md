@@ -30,13 +30,13 @@ La pagina "regole carrello" elenca le regole e i voucher del carrello attualment
 
 ![](../../../../.gitbook/assets/54266941.jpg)
 
-## Creare una nuova regola del carrello <a href="regolecarrello-creareunanuovaregoladelcarrello" id="regolecarrello-creareunanuovaregoladelcarrello"></a>
+## Creare una nuova regola del carrello <a href="#regolecarrello-creareunanuovaregoladelcarrello" id="regolecarrello-creareunanuovaregoladelcarrello"></a>
 
 Un voucher può essere creato automaticamente dopo la restituzione di un prodotto, ma è possibile crearne manualmente un nuovo in qualsiasi momento essendo molto specifici sulle sue proprietà. Per questa funzione clicca su "Aggiungi nuova regola carrello".
 
 Il modulo di generazione presenta tre schede che consentono di creare con precisione nuove regole e voucher.
 
-### Tabella Informazioni <a href="regolecarrello-tabellainformazioni" id="regolecarrello-tabellainformazioni"></a>
+### Tabella Informazioni <a href="#regolecarrello-tabellainformazioni" id="regolecarrello-tabellainformazioni"></a>
 
 La prima tabella, "Informazioni", contiene le regole che identificano la regola e le impostazioni principali.&#x20;
 
@@ -55,7 +55,7 @@ La prima tabella, "Informazioni", contiene le regole che identificano la regola 
 * **Priorità**. Se un cliente (o un gruppo di clienti) può beneficiare di più di un voucher o se più di un voucher può essere applicato a un ordine, PrestaShop applica il voucher uno a uno nell'ordine alfanumerico. Puoi cambiare l'ordine impostando una priorità inferiore al tuo voucher. Per impostazione predefinita tutti i buoni hanno una priorità di 1. Se si imposta un numero maggiore quel voucher verrà applicato solo dopo quelli con numero inferiore.
 * **Stato**. Puoi disabilitare o abilitare una regala ogni qualvolta lo ritieni opportuno.&#x20;
 
-### Tabella delle Condizioni <a href="regolecarrello-tabelladellecondizioni" id="regolecarrello-tabelladellecondizioni"></a>
+### Tabella delle Condizioni <a href="#regolecarrello-tabelladellecondizioni" id="regolecarrello-tabelladellecondizioni"></a>
 
 La seconda tabella, "Condizioni", contiene un ampio set di possibilità che consente di far beneficiare uno specifico target di determinate regole.&#x20;
 
@@ -95,7 +95,7 @@ Si tratta di uno strumento estremamente e la sua configurazione è molto specifi
 
 Le selezioni del prodotto sono indipendenti: è possibile aggiungere più di quanto necessario senza che si influenzino l’una con l’altra. Ciò consente di creare un'ampia gamma di prodotti a cui applicare la regola del carrello.
 
-### Tabella Azioni <a href="regolecarrello-tabellaazioni" id="regolecarrello-tabellaazioni"></a>
+### Tabella Azioni <a href="#regolecarrello-tabellaazioni" id="regolecarrello-tabellaazioni"></a>
 
 La terza e ultima tabella, "Azioni” è quella in cui si determina in cosa effettivamente consiste lo sconto.
 
@@ -111,7 +111,7 @@ La terza e ultima tabella, "Azioni” è quella in cui si determina in cosa effe
   * **Prodotto specifico**. Puoi scegliere a quale/i prodotto/i lo sconto deve essere applicato: digita le prime lettere del prodotto e selezionalo nella lista dei nomi corrispondenti,&#x20;
   * **Prodotto meno caro.** Disponibile esclusivamente per l’opzione "Percentuale (%)". Lo sconto si applica al prodotto meno caro dell’ordine.&#x20;
   * **Prodotto(i) selezionato(i)**. Disponibile esclusivamente per l’opzione "Percentuale (%)". Lo sconto si applica al prodotto selezionato definito nel passaggio precedente.&#x20;
-* **Escludi prodotti scontati**.** **_Novità di PrestaShop 1.7_. Per impostazione predefinita, il voucher si applica a qualsiasi tipo di prodotto già scontato o meno. Attivando questa funzionalità il voucher che state creando non verrà applicato a un prodotto o una combinazione se è già scontato.
+* **Escludi prodotti scontati**. **** _Novità di PrestaShop 1.7_. Per impostazione predefinita, il voucher si applica a qualsiasi tipo di prodotto già scontato o meno. Attivando questa funzionalità il voucher che state creando non verrà applicato a un prodotto o una combinazione se è già scontato.
 * **Invia un omaggio gratuito**. Puoi scegliere di offrire un regalo in presenza di alcune condizioni (e saltare lo sconto complessivo). Appare un campo: digita le prime lettere del prodotto e selezionalo nell'elenco dei nomi corrispondenti.
 
 Una volta che tutto è stato salvato puoi inviare il codice del voucher ai tuoi clienti o lasciare che il sistema gestisca automaticamente le regole del carrello, a seconda delle impostazioni.

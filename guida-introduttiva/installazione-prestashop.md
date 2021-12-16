@@ -18,7 +18,7 @@ Alcuni di questi script supportano anche l'aggiornamento con un solo clic, una f
 
 Altri host offrono i propri script di installazione. Per ulteriori informazioni, contatta il tuo host.
 
-## Istruzioni per l'installazione rapida <a href="installazionediprestashop1.7-istruzioniperlinstallazionerapida" id="installazionediprestashop1.7-istruzioniperlinstallazionerapida"></a>
+## Istruzioni per l'installazione rapida <a href="#installazionediprestashop1.7-istruzioniperlinstallazionerapida" id="installazionediprestashop1.7-istruzioniperlinstallazionerapida"></a>
 
 Di seguito, è disponibile una serie di istruzioni pensate appositamente per gli utenti già esperti di installazione delle applicazioni PHP/MySQL su un server web. Se la mancanza di dettagli non soddisfa le tue esigenze, troverai istruzioni dettagliate nella sezione successiva del presente capitolo.
 
@@ -31,9 +31,9 @@ Di seguito, è disponibile una serie di istruzioni pensate appositamente per gli
 
 A questo punto, PrestaShop dovrebbe risultare installato e pronto la configurazione. Procedi con il capitolo [Primi passi con PrestaShop 1.6](../guida-utente/primi-passi.md) della Guida utente.
 
-## Istruzioni dettagliate <a href="installazionediprestashop1.7-istruzionidettagliate" id="installazionediprestashop1.7-istruzionidettagliate"></a>
+## Istruzioni dettagliate <a href="#installazionediprestashop1.7-istruzionidettagliate" id="installazionediprestashop1.7-istruzionidettagliate"></a>
 
-### Download e decompressione dell'archivio di PrestaShop <a href="installazionediprestashop1.7-downloadedecompressionedellarchiviodiprestashop" id="installazionediprestashop1.7-downloadedecompressionedellarchiviodiprestashop"></a>
+### Download e decompressione dell'archivio di PrestaShop <a href="#installazionediprestashop1.7-downloadedecompressionedellarchiviodiprestashop" id="installazionediprestashop1.7-downloadedecompressionedellarchiviodiprestashop"></a>
 
 Puoi scaricare l'ultima versione di PrestaShop all'indirizzo [https://www.prestashop.com/it/download](https://www.prestashop.com/it/download).
 
@@ -68,7 +68,7 @@ Nella cartella principale del file ZIP, sono presenti tre elementi:
 
 Il file "Install\_PrestaShop.html" non deve essere caricato sul server web.
 
-### Caricamento di PrestaShop <a href="installazionediprestashop1.7-caricamentodiprestashop" id="installazionediprestashop1.7-caricamentodiprestashop"></a>
+### Caricamento di PrestaShop <a href="#installazionediprestashop1.7-caricamentodiprestashop" id="installazionediprestashop1.7-caricamentodiprestashop"></a>
 
 Ora dovresti disporre di uno spazio di hosting (in caso contrario, consulta il capitolo "Di che cosa hai bisogno per iniziare" della presente guida) e una cartella sull'unità disco rigido con l'archivio di PrestaShop decompresso.
 
@@ -90,7 +90,7 @@ Nella sezione "Sito remoto" (a destra), individua la posizione in cui desideri c
 
 Nel lato sinistro di FileZilla, dovrebbe essere presente la cartella locale in cui hai estratto i file di PrestaShop dall'archivio ZIP e nel lato destro la posizione di destinazione. Se non lo hai ancora fatto, il caricamento è un'operazione semplice: seleziona i tre file dalla cartella locale (utilizza Ctrl-A) e trascinali e rilasciali nella cartella remota oppure fai clic con il pulsante destro del mouse sulla selezione e scegli "Carica" nel menu contestuale.
 
-### Creazione di un database per il negozio <a href="installazionediprestashop1.7-creazionediundatabaseperilnegozio" id="installazionediprestashop1.7-creazionediundatabaseperilnegozio"></a>
+### Creazione di un database per il negozio <a href="#installazionediprestashop1.7-creazionediundatabaseperilnegozio" id="installazionediprestashop1.7-creazionediundatabaseperilnegozio"></a>
 
 Prima di poter installare effettivamente PrestaShop, devi verificare che MySQL Server disponga di un database predisposto per i dati di PrestaShop. In caso contrario, devi crearne uno.
 
@@ -104,7 +104,7 @@ Nella colonna sinistra, sono elencati i database attualmente disponibili su MySQ
 
 In ogni caso, puoi creare un nuovo database dalla scheda "Database" e utilizzando il modulo centrale denominato "Create new database" (Crea nuovo database). Ti basterà inserire un nome univoco e fare clic su "Create" (Crea). Il nome del database verrà aggiunto all'elenco a sinistra. A questo punto, puoi utilizzarlo per archiviare i dati di PrestaShop.
 
-### Avvio del programma di installazione automatico <a href="installazionediprestashop1.7-avviodelprogrammadiinstallazioneautomatico" id="installazionediprestashop1.7-avviodelprogrammadiinstallazioneautomatico"></a>
+### Avvio del programma di installazione automatico <a href="#installazionediprestashop1.7-avviodelprogrammadiinstallazioneautomatico" id="installazionediprestashop1.7-avviodelprogrammadiinstallazioneautomatico"></a>
 
 A questo punto, è arrivato il momento di installare PrestaShop.
 
@@ -118,7 +118,7 @@ A questo punto, ti basterà leggere, selezionare e inserire altri moduli.
 
 Si tratta di 6 passaggi. Nella parte superiore della pagina, l'assistente di installazione offre una visualizzazione dell'avanzamento del processo: i cerchi grigi si trasformano in segni di spunta verdi al termine di ogni passaggio.
 
-#### Passaggio 1: pagina iniziale <a href="installazionediprestashop1.7-passaggio1-paginainiziale" id="installazionediprestashop1.7-passaggio1-paginainiziale"></a>
+#### Passaggio 1: pagina iniziale <a href="#installazionediprestashop1.7-passaggio1-paginainiziale" id="installazionediprestashop1.7-passaggio1-paginainiziale"></a>
 
 Questa pagina è una rapida introduzione del processo di installazione. Puoi scegliere la lingua in cui visualizzare le istruzioni del programma di installazione.
 
@@ -126,7 +126,7 @@ Ti viene fornito anche un link al sito della documentazione ([http://doc.prestas
 
 Seleziona la lingua in cui desideri visualizzare il programma di installazione, quindi fai clic sul pulsante "Avanti". Ciò imposterà anche la lingua predefinita dell'installazione di PrestaShop, tuttavia sono disponibili anche altre lingue.
 
-#### Passaggio 2: licenze di PrestaShop <a href="installazionediprestashop1.7-passaggio2-licenzediprestashop" id="installazionediprestashop1.7-passaggio2-licenzediprestashop"></a>
+#### Passaggio 2: licenze di PrestaShop <a href="#installazionediprestashop1.7-passaggio2-licenzediprestashop" id="installazionediprestashop1.7-passaggio2-licenzediprestashop"></a>
 
 Questa seconda pagina è un semplice requisito: PrestaShop è un software gratuito e distribuito in base a un determinato set di licenze open source. Se non accetti i termini delle licenze, non puoi utilizzare il software; questo passaggio richiede di accettarle esplicitamente.
 
@@ -139,7 +139,7 @@ Per installare PrestaShop, devi accettare entrambe le licenze.
 
 Per accedere al passaggio successivo, devi selezionare la casella "Accetto i termini e condizioni", quindi fai clic su "Avanti". Se non accetti esplicitamente le licenze, non puoi installare PrestaShop: il pulsante "Avanti" non risulterà selezionabile.
 
-#### Passaggi 3 e 4: compatibilità del sistema e informazioni del negozio <a href="installazionediprestashop1.7-passaggi3e4-compatibilitadelsistemaeinformazionidelnegozio" id="installazionediprestashop1.7-passaggi3e4-compatibilitadelsistemaeinformazionidelnegozio"></a>
+#### Passaggi 3 e 4: compatibilità del sistema e informazioni del negozio <a href="#installazionediprestashop1.7-passaggi3e4-compatibilitadelsistemaeinformazionidelnegozio" id="installazionediprestashop1.7-passaggi3e4-compatibilitadelsistemaeinformazionidelnegozio"></a>
 
 La terza pagina consente di verificare rapidamente i parametri del server sull'host. Nella maggior parte dei casi, questa pagina non viene mostrata poiché non viene rilevato alcun problema, quindi si passa direttamente alla quarta pagina, "Informazioni sul negozio". Se invece preferisci visualizzare la terza pagina, ti basterà fare clic sul link "Compatibilità del sistema" nella barra laterale sinistra.
 
@@ -221,7 +221,7 @@ In questa pagina, inoltre, devi scegliere la password per accedere al pannello d
 
 Fai clic su "Next" (Avanti) per continuare.
 
-#### Passaggio 5: configurazione del sistema <a href="installazionediprestashop1.7-passaggio5-configurazionedelsistema" id="installazionediprestashop1.7-passaggio5-configurazionedelsistema"></a>
+#### Passaggio 5: configurazione del sistema <a href="#installazionediprestashop1.7-passaggio5-configurazionedelsistema" id="installazionediprestashop1.7-passaggio5-configurazionedelsistema"></a>
 
 In questa pagina è disponibile un modulo che ti consente di specificare dove si trova il server di database di PrestaShop, quale database utilizzare e altri dettagli. Tutte queste informazioni dovrebbero esserti state fornite dall'host web.
 
@@ -252,7 +252,7 @@ Vengono eseguite le seguenti operazioni:
 
 Al termine, il negozio risulta installato e pronto per la configurazione.
 
-### Completamento dell'installazione <a href="installazionediprestashop1.7-completamentodellinstallazione" id="installazionediprestashop1.7-completamentodellinstallazione"></a>
+### Completamento dell'installazione <a href="#installazionediprestashop1.7-completamentodellinstallazione" id="installazionediprestashop1.7-completamentodellinstallazione"></a>
 
 Come puoi leggere nella pagina finale del processo di installazione, è necessario eseguire ulteriori azioni prima di chiudere il programma di installazione.
 
@@ -265,7 +265,7 @@ Un metodo semplice per migliorare la sicurezza dell'installazione è eliminare a
 Fai clic sul pulsante "Manage your store" (Gestisci il tuo negozio) per visualizzare l'area di amministrazione.
 
 Un'alta modalità utile per proteggere l'installazione è quella di utilizzare un nome personalizzato per la cartella di amministrazione: modifica la cartella "admin" con un nome significativo per te, ad esempio "4dmin-1537" o "MySecReT4dm1n".\
-** Prendi nota del nuovo nome assegnato alla cartella "admin"**, poiché a partire da questo momento potrai accedere alle pagine di amministrazione utilizzando questo indirizzo!
+&#x20;**Prendi nota del nuovo nome assegnato alla cartella "admin"**, poiché a partire da questo momento potrai accedere alle pagine di amministrazione utilizzando questo indirizzo!
 
 Infine, per chiudere tutte le porte potenzialmente dannose, utilizza il client FTP per aggiornare le autorizzazioni dei file e delle cartelle su 664, o 666 se il tuo host lo richiede. Se risultano diritti di accesso che impediscono ad alcuni moduli di funzionare, ti consigliamo di ripristinare l'impostazione delle autorizzazioni su 755.
 

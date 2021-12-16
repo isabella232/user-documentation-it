@@ -1,6 +1,6 @@
 # Table of contents
 
-* [About the user documentation](README.md)
+* [Contributing to the documentation](README.md)
 * [Guida introduttiva di PrestaShop 1.7](guida-introduttiva/README.md)
   * [Di che cosa hai bisogno per iniziare](guida-introduttiva/di-che-cosa-hai-bisogno-per-iniziare.md)
   * [Installazione di PrestaShop 1.7](guida-introduttiva/installazione-prestashop.md)
@@ -58,7 +58,7 @@
       * [Pagine - Gestione Contenuti Statici](guida-utente/migliorare-negozio/personalizzare-design-negozio/pagine-gestione-contenuti-statici.md)
       * [Posizioni](guida-utente/migliorare-negozio/personalizzare-design-negozio/posizioni.md)
       * [Impostazioni Immagine](guida-utente/migliorare-negozio/personalizzare-design-negozio/impostazioni-immagine.md)
-      * [Link Widget \(Widget di collegamento\)](guida-utente/migliorare-negozio/personalizzare-design-negozio/link-widget.md)
+      * [Link Widget (Widget di collegamento)](guida-utente/migliorare-negozio/personalizzare-design-negozio/link-widget.md)
     * [Gestire le Spedizioni](guida-utente/migliorare-negozio/gestire-spedizioni/README.md)
       * [Corrieri](guida-utente/migliorare-negozio/gestire-spedizioni/corrieri.md)
       * [Preferenze di Spedizione](guida-utente/migliorare-negozio/gestire-spedizioni/preferenze-di-spedizione.md)
@@ -110,11 +110,11 @@
         * [Dipendenti](guida-utente/configurare-negozio/parametri-avanzati/squadra/dipendenti.md)
         * [Profili](guida-utente/configurare-negozio/parametri-avanzati/squadra/profili.md)
         * [Autorizzazioni](guida-utente/configurare-negozio/parametri-avanzati/squadra/autorizzazioni.md)
-      * [Database \(Base Dati\)](guida-utente/configurare-negozio/parametri-avanzati/base-dati/README.md)
+      * [Database (Base Dati)](guida-utente/configurare-negozio/parametri-avanzati/base-dati/README.md)
         * [SQL Manager/ Gestore SQL](guida-utente/configurare-negozio/parametri-avanzati/base-dati/gestore-sql.md)
         * [Backup del Database](guida-utente/configurare-negozio/parametri-avanzati/base-dati/backup-del-database.md)
       * [Log](guida-utente/configurare-negozio/parametri-avanzati/log.md)
-      * [Webservice \(Servizio Web\)](guida-utente/configurare-negozio/parametri-avanzati/webservice-servizio-web.md)
+      * [Webservice (Servizio Web)](guida-utente/configurare-negozio/parametri-avanzati/webservice-servizio-web.md)
       * [Multinegozio](guida-utente/configurare-negozio/parametri-avanzati/multinegozio.md)
   * [Gestire Negozi Multipli](guida-utente/gestire-negozi-multipli/README.md)
     * [L'interfaccia Multinegozio](guida-utente/gestire-negozi-multipli/interfaccia-multinegozio.md)
@@ -123,4 +123,3 @@
     * [Impostare l’URL di un negozio](guida-utente/gestire-negozi-multipli/impostare-url-negozio.md)
     * [Esempi di Uso e Specifiche](guida-utente/gestire-negozi-multipli/esempi-di-uso-e-specifiche.md)
   * [Esplorare il front office](guida-utente/esplorare-front-office.md)
-
