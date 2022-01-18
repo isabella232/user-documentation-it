@@ -2,7 +2,7 @@
 
 Questa pagina presenta molti strumenti e suggerimenti che potrebbero aiutarti a migliorare le prestazioni del tuo negozio, non si parla di vendite, anche se un server che lavora bene è in grado di servire più clienti e quindi generare più vendite.
 
-## Smarty <a href="performance-prestazioni-smarty" id="performance-prestazioni-smarty"></a>
+## Smarty <a href="#performance-prestazioni-smarty" id="performance-prestazioni-smarty"></a>
 
 Smarty è il nome del linguaggio del template utilizzato dai temi di PrestaShop. Puoi scoprire di più qui: [http://www.smarty.net/](http://www.smarty.net).
 
@@ -20,7 +20,7 @@ Ci sono diverse opzioni:
 * **Tipo di cache**. Per impostazione predefinita, Smarty utilizza un meccanismo di cache basato su file. È possibile scegliere di utilizzare MySQL come risorsa di archiviazione per la cache di output di Smarty.
 * **Pulisci la cache**. A seconda di quanto spesso il tuo negozio cambia, potresti non cancellare mai i file di cache, né cancellarli ogni volta che il tuo negozio viene modificato (a livello di prodotti o di design).
 
-**Modalità di debug**
+## **Modalità di debug**
 
 Quando si è in modalità di debug, è possibile scegliere di diminuire l'impatto di alcune funzioni su PrestaShop, al fine di individuare meglio dove viene generato un errore:
 
@@ -30,7 +30,7 @@ Quando si è in modalità di debug, è possibile scegliere di diminuire l'impatt
 * **Disattiva tutti gli override.** Molte funzioni di PrestaShop possono essere sovrascritte. Se abiliti queste impostazioni, tutti i codici di overriding saranno disabilitati e potrai capire se il problema viene dal codice di PrestaShop o da un override di terze parti.
 * **Modalità di debug.** Attivando questa opzione saranno visibili i messaggi di errore tecnico. È utile quando vieni aiutato da qualcuno che non ha accesso al tuo negozio ma che ha bisogno di sapere cosa sta succedendo tecnicamente.
 
-## Caratteristiche opzionali <a href="performance-prestazioni-caratteristicheopzionali" id="performance-prestazioni-caratteristicheopzionali"></a>
+## Caratteristiche opzionali <a href="#performance-prestazioni-caratteristicheopzionali" id="performance-prestazioni-caratteristicheopzionali"></a>
 
 Alcune funzioni di PrestaShop possono essere disattivate se non si utilizzano, in quanto possono rallentare il negozio.
 
@@ -44,7 +44,7 @@ Se il tuo catalogo ha prodotti che utilizzano queste funzionalità, però, non s
 * **Funzioni**. Le caratteristiche del prodotto consentono di indicare le informazioni specifiche del prodotto: peso, materiale, paese di origine, ecc.
 * **Gruppi di clienti**. I gruppi clienti consentono di raggruppare i clienti in modo da conferir loro alcuni privilegi e restrizioni: sconti, restrizioni di moduli, ecc.
 
-## Combinazione, Compressione e Cache (CCC) <a href="performance-prestazioni-combinazione-compressioneecache-ccc" id="performance-prestazioni-combinazione-compressioneecache-ccc"></a>
+## Combinazione, Compressione e Cache (CCC) <a href="#performance-prestazioni-combinazione-compressioneecache-ccc" id="performance-prestazioni-combinazione-compressioneecache-ccc"></a>
 
 CCC è un insieme di strumenti per ridurre al minimo il carico del server e il tempo di caricamento dei temi.
 
@@ -57,7 +57,7 @@ Fa quello che dice: unisce file testuali dello stesso tipo in un file più grand
 * **Smart cache per JavaScript**. Anche i file JavaScript sono basati su testo, ma la loro combinazione a volte può risultare problematica. Assicurati di testare tutto prima di lasciare abilitata l'impostazione.
 * **Ottimizzazione Apache**. Questa impostazione modificherà il file di configurazione del server web per renderlo più efficiente per la CCC.
 
-## Server Media <a href="performance-prestazioni-servermedia" id="performance-prestazioni-servermedia"></a>
+## Server Media <a href="#performance-prestazioni-servermedia" id="performance-prestazioni-servermedia"></a>
 
 Questa sezione consente di reindirizzare una parte del traffico (file immagine e video, ad esempio) su altri server di tuo controllo, attraverso altri domini o sotto-domini. Di solito i file vengono ospitati su un CDN (Content Delivery Network). Per impostazione predefinita, PrestaShop supporta un server multimediale.
 
@@ -90,7 +90,7 @@ Anche se non si dispone di un server CDN, è possibile utilizzare la funzionalit
 
 Una volta in atto, PrestaShop caricherà le tue immagini da uno di questi sottodomini. In effetti, le immagini provengono da una cartella (quella principale), ma il browser aprirà più thread di connessione al server web di quanto non avrebbe fatto per impostazione predefinita, rendendo più veloce l'intera pagina.
 
-## Cache <a href="performance-prestazioni-cache" id="performance-prestazioni-cache"></a>
+## Cache <a href="#performance-prestazioni-cache" id="performance-prestazioni-cache"></a>
 
 La cache del tuo server memorizza le versioni statiche della tua pagina web dinamica per ridurre il carico del server e il tempo di compilazione.
 
